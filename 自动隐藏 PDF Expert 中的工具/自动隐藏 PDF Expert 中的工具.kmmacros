@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>610940912.33950901</real>
+		<key>CustomIconData</key>
+		<string>KMEP-GenericApplication-/Applications/PDF Expert.app</string>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>MacroActionType</key>
+						<string>SelectMenuItem</string>
+						<key>Menu</key>
+						<array>
+							<string>视图</string>
+							<string>无工具</string>
+						</array>
+						<key>TargetApplication</key>
+						<dict/>
+						<key>TargetingType</key>
+						<string>Front</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>609088418.54316103</real>
+				<key>CustomIconData</key>
+				<string>KMEP-GenericApplication-/Applications/PDF Expert.app</string>
+				<key>ModificationDate</key>
+				<real>610941108.85169196</real>
+				<key>Name</key>
+				<string>自动隐藏 PDF Expert 中的工具</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>Application</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>com.readdle.PDFExpert-Mac</string>
+							<key>Name</key>
+							<string>PDF Expert</string>
+							<key>NewFile</key>
+							<string>/Applications/PDF Expert.app</string>
+						</dict>
+						<key>FireType2</key>
+						<string>Activate</string>
+						<key>MacroTriggerType</key>
+						<string>Application</string>
+						<key>RepeatTime</key>
+						<integer>60</integer>
+						<key>Target</key>
+						<string>Specific</string>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>A5AAEE85-BF16-43C3-9364-7AC4348AE832</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>自动隐藏 PDF Expert 中的工具</string>
+		<key>ToggleMacroUID</key>
+		<string>78A356C9-893C-4AC3-824A-1C5129945451</string>
+		<key>UID</key>
+		<string>C999E4AF-0FCE-40BC-A9D4-84F6AB75FE0F</string>
+	</dict>
+</array>
+</plist>

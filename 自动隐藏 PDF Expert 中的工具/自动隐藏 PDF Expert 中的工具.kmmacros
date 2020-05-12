@@ -25,7 +25,7 @@
 									<key>DisplayMatches</key>
 									<false/>
 									<key>Fuzz</key>
-									<integer>50</integer>
+									<integer>25</integer>
 									<key>Image</key>
 									<data>
 								TU0AKgAAGbSA
@@ -1278,7 +1278,7 @@
 				<key>CustomIconData</key>
 				<string>KMEP-GenericApplication-/Applications/PDF Expert.app</string>
 				<key>ModificationDate</key>
-				<real>610954511.94473398</real>
+				<real>610982147.65880406</real>
 				<key>Name</key>
 				<string>自动隐藏 PDF Expert 中的工具</string>
 				<key>Triggers</key>

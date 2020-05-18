@@ -647,7 +647,7 @@
 				<key>CustomIconData</key>
 				<string>KMEP-KeyboardLayout</string>
 				<key>ModificationDate</key>
-				<real>610891451.10443497</real>
+				<real>611476228.20477998</real>
 				<key>Name</key>
 				<string>切换至英文输入法</string>
 				<key>Triggers</key>
@@ -800,6 +800,25 @@
 							<string>Texpad</string>
 							<key>NewFile</key>
 							<string>/Applications/Texpad.app</string>
+						</dict>
+						<key>FireType2</key>
+						<string>Activate</string>
+						<key>MacroTriggerType</key>
+						<string>Application</string>
+						<key>RepeatTime</key>
+						<integer>60</integer>
+						<key>Target</key>
+						<string>Specific</string>
+					</dict>
+					<dict>
+						<key>Application</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>com.microsoft.VSCode</string>
+							<key>Name</key>
+							<string>Visual Studio Code</string>
+							<key>NewFile</key>
+							<string>/Applications/Visual Studio Code.app</string>
 						</dict>
 						<key>FireType2</key>
 						<string>Activate</string>

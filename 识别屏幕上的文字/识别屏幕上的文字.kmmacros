@@ -399,6 +399,14 @@
 						<true/>
 					</dict>
 					<dict>
+						<key>Action</key>
+						<string>TrimWhitespace</string>
+						<key>MacroActionType</key>
+						<string>Filter</string>
+						<key>Source</key>
+						<string>Clipboard</string>
+					</dict>
+					<dict>
 						<key>MacroActionType</key>
 						<string>Notification</string>
 						<key>SoundName</key>
@@ -414,7 +422,7 @@
 				<key>CreationDate</key>
 				<real>587444815.08833599</real>
 				<key>ModificationDate</key>
-				<real>610874305.25785804</real>
+				<real>611822795.53480601</real>
 				<key>Name</key>
 				<string>识别屏幕上的文字</string>
 				<key>Triggers</key>

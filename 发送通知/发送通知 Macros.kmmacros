@@ -619,7 +619,7 @@ end if</string>
 				<key>CreationDate</key>
 				<real>589648451.99947202</real>
 				<key>ModificationDate</key>
-				<real>610812951.36424601</real>
+				<real>612189465.72224104</real>
 				<key>Name</key>
 				<string>备份磁盘连接提醒</string>
 				<key>Triggers</key>
@@ -630,7 +630,7 @@ end if</string>
 						<key>Mounted</key>
 						<true/>
 						<key>Name</key>
-						<string>quicy</string>
+						<string>Backup</string>
 						<key>TargetType</key>
 						<string>Named</string>
 					</dict>

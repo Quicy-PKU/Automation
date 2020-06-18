@@ -647,7 +647,7 @@
 				<key>CustomIconData</key>
 				<string>KMEP-KeyboardLayout</string>
 				<key>ModificationDate</key>
-				<real>611476228.20477998</real>
+				<real>614136087.85298002</real>
 				<key>Name</key>
 				<string>切换至英文输入法</string>
 				<key>Triggers</key>
@@ -819,6 +819,25 @@
 							<string>Visual Studio Code</string>
 							<key>NewFile</key>
 							<string>/Applications/Visual Studio Code.app</string>
+						</dict>
+						<key>FireType2</key>
+						<string>Activate</string>
+						<key>MacroTriggerType</key>
+						<string>Application</string>
+						<key>RepeatTime</key>
+						<integer>60</integer>
+						<key>Target</key>
+						<string>Specific</string>
+					</dict>
+					<dict>
+						<key>Application</key>
+						<dict>
+							<key>BundleIdentifier</key>
+							<string>com.jetbrains.pycharm</string>
+							<key>Name</key>
+							<string>PyCharm</string>
+							<key>NewFile</key>
+							<string>~/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/201.7223.92/PyCharm.app</string>
 						</dict>
 						<key>FireType2</key>
 						<string>Activate</string>

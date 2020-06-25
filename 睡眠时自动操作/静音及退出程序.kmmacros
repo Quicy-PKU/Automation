@@ -346,10 +346,8 @@
 						<key>Path</key>
 						<string></string>
 						<key>Text</key>
-						<string>set volume 0try	tell application "QQMusic" to quitend trytry	tell application "QQ" to quitend trytry	tell application "QQLive" to quitend trytry	tell application "爱奇艺" to quitend trytry	tell application "IINA" to quitend trytry	tell application "优酷" to quitend trytry	tell application "Activity Monitor" to quitend trytry	tell application "Keychain Access" to quitend trytry	tell application "Music" to quitend trytry	tell application "TextEdit" to quitend trytry	tell application "Steam" to quitend trytry	tell application "Script Editor" to quitend try
-try
-	tell application "QuickTime Player" to quit
-end try</string>
+						<string>set volume 0try	tell application "QQMusic" to quitend trytry	tell application "QQ" to quitend trytry	tell application "QQLive" to quitend trytry	tell application "爱奇艺" to quitend trytry	tell application "IINA" to quitend trytry	tell application "优酷" to quitend trytry	tell application "Activity Monitor" to quitend trytry	tell application "Keychain Access" to quitend trytry	tell application "Music" to quitend trytry	tell application "TextEdit" to quitend trytry	tell application "Steam" to quitend trytry	tell application "Script Editor" to quitend trytry	tell application "QuickTime Player" to quitend try
+try	tell application "TencentMeeting" to quitend try</string>
 						<key>TimeOutAbortsMacro</key>
 						<true/>
 						<key>TrimResults</key>
@@ -363,7 +361,7 @@ end try</string>
 				<key>CreationDate</key>
 				<real>585576376.05068803</real>
 				<key>ModificationDate</key>
-				<real>610858648.80904603</real>
+				<real>614760575.88999701</real>
 				<key>Name</key>
 				<string>静音及退出程序</string>
 				<key>Triggers</key>
